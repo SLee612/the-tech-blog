@@ -14,3 +14,7 @@ They can publish articles, blog posts as well as just thoughts and opinions.
 * Application’s folder structure follows the Model-View-Controller paradigm.
 
 * Uses the [express-handlebars]
+
+https://github.com/SLee612/the-tech-blog
+https://slee612.github.io/the-tech-blog/
+https://limitless-plains-88500.herokuapp.com/
