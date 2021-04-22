@@ -17,7 +17,7 @@ They can publish articles, blog posts as well as just thoughts and opinions.
 
 
 
-##Links
+## Links
 
 https://github.com/SLee612/the-tech-blog
 
